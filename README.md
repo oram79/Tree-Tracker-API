@@ -7,7 +7,7 @@ This is the backend component of the **Binary Search Tree (BST) Visualizer** app
 - Optionally generate and return a balanced BST (bonus challenge).
 - Store and fetch BST data via a connected SQL database.
 
-## 📦 Technologies Used
+## Technologies Used
 
 - Java 17
 - Spring Boot 3.x
